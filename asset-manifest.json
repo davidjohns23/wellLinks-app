@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wellLinks-app/static/css/main.e6c13ad2.css",
+    "main.js": "/wellLinks-app/static/js/main.4e1a09fe.js",
+    "static/js/787.a45d08ac.chunk.js": "/wellLinks-app/static/js/787.a45d08ac.chunk.js",
+    "index.html": "/wellLinks-app/index.html",
+    "main.e6c13ad2.css.map": "/wellLinks-app/static/css/main.e6c13ad2.css.map",
+    "main.4e1a09fe.js.map": "/wellLinks-app/static/js/main.4e1a09fe.js.map",
+    "787.a45d08ac.chunk.js.map": "/wellLinks-app/static/js/787.a45d08ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4e1a09fe.js"
+  ]
+}
